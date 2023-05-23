@@ -1,0 +1,12 @@
+.bodyWrapper div:first-child {
+    top: 0px !important
+}
+
+div[class="quick-actions-panel"] div[class*="slds-modal__content"]:first-child {
+    height: auto !important;
+    padding: 0px !important;
+}
+
+div[class="quick-actions-panel"] div[class*="cuf-content"] {
+    padding: 0px !important;
+}
