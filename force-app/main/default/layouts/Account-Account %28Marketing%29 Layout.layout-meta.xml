@@ -79,6 +79,10 @@
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Active__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>CustomerPriority__c</field>
             </layoutItems>
             <layoutItems>
@@ -229,9 +233,14 @@
             <sortOrder>9</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
-            <actionName>ChangeOwnerOne</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>15</sortOrder>
+            <actionName>FeedItem.PollPost</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>10</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>FeedItem.QuestionPost</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>11</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>SendEmail</actionName>
@@ -247,6 +256,11 @@
             <actionName>Edit</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>14</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>ChangeOwnerOne</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>15</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>AccountHierarchy</actionName>
@@ -307,16 +321,6 @@
             <actionName>WebsiteHighlightAction</actionName>
             <actionType>ProductivityAction</actionType>
             <sortOrder>27</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>FeedItem.QuestionPost</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>11</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>FeedItem.PollPost</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>10</sortOrder>
         </platformActionListItems>
     </platformActionList>
     <quickActionList>
