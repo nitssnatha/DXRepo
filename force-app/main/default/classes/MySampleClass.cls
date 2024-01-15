@@ -5,6 +5,7 @@ public class MySampleClass {
     }
     
     // Method to check if a given string is empty
+    //Demo Setup
     public static Boolean isStringEmpty(String str) {
         return String.isBlank(str);
     }
