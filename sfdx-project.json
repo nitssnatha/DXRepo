@@ -2,15 +2,18 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "versionName": "",
-      "versionNumber": "",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "dependencies": [],
       "default": true,
-      "package": ""
+      "package": "Salesforce 0.1",
+      "versionDescription": ""
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
-  "packageAliases": {}
+  "packageAliases": {
+    "Salesforce 0.1": "0HoIg000000PAtGKAW"
+  }
 }
