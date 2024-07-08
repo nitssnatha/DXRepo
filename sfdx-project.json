@@ -2,11 +2,10 @@
   "packageDirectories": [
     {
       "path": "force-app",
+      "package": "nitssesh",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
-      "dependencies": [],
-      "default": true,
-      "package": "nitssesh",
+      "default": false,
       "versionDescription": ""
     }
   ],
@@ -14,6 +13,6 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
   "packageAliases": {
-    "nitssesh": "0HoIg000000PAtGKAW"
+    "nitssesh": "0HoIg000000PAtLKAW"
   }
 }
