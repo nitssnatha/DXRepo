@@ -14,6 +14,6 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
   "packageAliases": {
-    "Salesforce 0.1": "0HoIg000000PAtGKAW"
+    "nitssesh": "0HoIg000000PAtGKAW"
   }
 }
