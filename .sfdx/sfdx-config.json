@@ -1,4 +1,5 @@
 {
   "instanceUrl": "https://copado-24c-dev-ed.develop.my.salesforce.com",
-  "apiVersion": "60.0"
+  "apiVersion": "55.0",
+  "defaultusername": "Prod"
 }
