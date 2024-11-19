@@ -13,8 +13,8 @@
         <name>RT1</name>
     </recordTypes>
     <recordTypes>
-        <label><RT2></label>
+        <label><!-- RT2 --></label>
         <name>RT2</name>
     </recordTypes>
-    <startsWith>Consonant</startsWith>
+    <startsWith><!-- Consonant--></startsWith>
 </CustomObjectTranslation>
