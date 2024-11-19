@@ -5,7 +5,7 @@
         <value>BMC</value>
     </caseValues>
     <caseValues>
-        <plural>true</plural>
+        <plural>false</plural>
         <value>BMCs</value>
     </caseValues>
     <recordTypes>
@@ -16,5 +16,5 @@
         <label><!-- RT2 --></label>
         <name>RT2</name>
     </recordTypes>
-    <startsWith><!-- Consonant--></startsWith>
+    <startsWith>Constant</startsWith>
 </CustomObjectTranslation>
