@@ -9,11 +9,11 @@
         <value>BMCs</value>
     </caseValues>
     <recordTypes>
-        <label><!-- RT1 --></label>
+        <label></label>
         <name>RT1</name>
     </recordTypes>
     <recordTypes>
-        <label><!-- RT2 --></label>
+        <label></label>
         <name>RT2</name>
     </recordTypes>
     <startsWith>Consonant</startsWith>
