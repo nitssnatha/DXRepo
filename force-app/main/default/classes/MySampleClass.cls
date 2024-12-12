@@ -5,7 +5,7 @@ public class MySampleClass {
     }
     //Bundle US-1
     //Bundle US-2 This is actual one
-    // Method to check if a given string is empty
+    // Method to check if a given str    ing is empty
     //Demo Setup
     public static Boolean isStringEmpty(String str) {
         return String.isBlank(str);
