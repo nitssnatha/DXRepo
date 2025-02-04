@@ -7,6 +7,7 @@ public class MySampleClass {
     //Bundle US-2 This is actual one
     // Method to check if a given string is emptafdsfay
     //Demo Setup
+//Get the conflict
     public static Boolean isStringEmpty(String str) {
         return String.isBlank(str);
     }
